@@ -9,6 +9,7 @@ Welcome to our Data Mining Final Project repository, which aims to dig up valuab
 
 
 Contributed By:
--- 12S20001_Mmarcelino Manalu
--- 12S20026_MAstuari Octafina Sirumapea
--- 12S20038_Arni Febryarti Sitorus
+- 12S20001_Mmarcelino Manalu
+- 12S20026_MAstuari Octafina Sirumapea
+- 12S20038_Arni Febryarti Sitorus
+
